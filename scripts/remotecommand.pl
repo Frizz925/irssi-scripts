@@ -1,6 +1,5 @@
 #!/usr/bin/perl -w
 
-my @api = ("skype", "twitter");
 my $timeout = time;
 my $grantednick;
 my $password = "MD5_PASSWORD_HERE";
